@@ -1,0 +1,65 @@
+/*  ‰”Ìﬁ «·⁄‰«’— «·—∆Ì”Ì… */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #666;
+}
+
+/*  ‰”Ìﬁ ‰„Ê–Ã ≈÷«›… «·’‰› «·ÃœÌœ */
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+textarea,
+select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/*  ‰”Ìﬁ ﬁ«∆„… «·√’‰«› «·„ «Õ… */
+select {
+    height: 100px;
+}
+
+/*  ‰”Ìﬁ Õﬁ· «·»ÕÀ ⁄‰ «·›« Ê—… */
+#invoiceSearch {
+    width: 200px;
+    margin-right: 10px;
+}
+
+/*  ‰”Ìﬁ “— «·»ÕÀ */
+button[type="button"] {
+    background-color: #666;
+}
+
+/*  ‰”Ìﬁ ﬁ«∆„… «·√’‰«› «·„Õœœ… */
+#products {
+    height: 100px;
+}
+
+/*  ‰”Ìﬁ “— ≈‰‘«¡ «·›« Ê—… */
+button[type="button"] {
+    background-color: #333;
+}
